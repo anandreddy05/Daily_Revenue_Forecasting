@@ -35,3 +35,29 @@ This project analyzes seasonal trends and patterns in sales data using time seri
 - `RMSE`: 12152386.469468849
 - `MAPE`: 0.24536495629219485
 
+## SARIMAX
+
+- `MAE`: 5716327.042129176
+- `RMSE`: 10394396.812419357
+- `MAPE`: 0.19359098435175184
+
+## How to Run the Project
+
+- Clone the repository
+
+```bash
+https://github.com/anandreddy05/Daily_Revenue_Forecastingcd 
+```
+
+Daily-Revenue-Forecasting
+
+```bash
+pip install -r requirements.txt
+```
+
+### Future Enhancements
+
+- Experiment with Prophet, and LSTM models
+- Improve hyperparameter tuning for better forecasts
+- Deploy as a real-time forecasting app
+📢 Contributions are welcome! Feel free to fork, modify, and submit a pull request.
