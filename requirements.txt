@@ -1,0 +1,7 @@
+statsmodels
+numpy==1.26.4
+matplotlib
+seaborn
+ipykernel
+scikit-learn
+pmdarima
