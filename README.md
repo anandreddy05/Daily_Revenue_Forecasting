@@ -46,10 +46,12 @@ This project analyzes seasonal trends and patterns in sales data using time seri
 - Clone the repository
 
 ```bash
-https://github.com/anandreddy05/Daily_Revenue_Forecastingcd 
+https://github.com/anandreddy05/Daily_Revenue_Forecasting 
 ```
 
-Daily-Revenue-Forecasting
+```bash
+cd Daily-Revenue
+```
 
 ```bash
 pip install -r requirements.txt
