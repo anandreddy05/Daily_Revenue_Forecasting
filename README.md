@@ -45,6 +45,18 @@ This project analyzes seasonal trends and patterns in sales data using time seri
 
 ## How to Run the Project
 
+### python version used `Python 3.10.6`
+
+### Create a Virtial Environment (Not Required But Highly Recommended)
+```bash
+python -m venv venv
+```
+
+### Sctivate the virtual environment
+```bash
+venv\Scripts\activate
+```
+
 - Clone the repository
 
 ```bash
