@@ -76,4 +76,5 @@ pip install -r requirements.txt
 - Experiment with Prophet, and LSTM models
 - Improve hyperparameter tuning for better forecasts
 - Deploy as a real-time forecasting app
-📢 Contributions are welcome! Feel free to fork, modify, and submit a pull request.
+  
+😄 Contributions are welcome! Feel free to fork, modify, and submit a pull request.
