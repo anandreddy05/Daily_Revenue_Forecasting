@@ -41,6 +41,8 @@ This project analyzes seasonal trends and patterns in sales data using time seri
 - `RMSE`: 10394396.812419357
 - `MAPE`: 0.19359098435175184
 
+### CrossValidation and FineTuned Sarimax
+
 ## How to Run the Project
 
 - Clone the repository
